@@ -1,11 +1,4 @@
 system_decision,ground_truth,is_correct
 B,B,True
 B,B,True
-X,B,True
-B,B,True
-A,A,True
-B,A,False
-B,B,True
-B,B,True
-B,A,False
 B,B,True
