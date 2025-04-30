@@ -12,9 +12,7 @@ English translation:
 
 ### AutoGen
 
-  **From:**
-  
-  Wu, Qingyun et al. 2024. »AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation«, in Proceedings of the LLM Agents Workshop at the International Conference on Learning Representations.
+  **From:** Wu, Qingyun et al. 2024. »AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation«, in Proceedings of the LLM Agents Workshop at the International Conference on Learning Representations.
 
   **GitHub:** https://github.com/microsoft/autogen
 
@@ -24,13 +22,9 @@ English translation:
 
 ### JudgeBench
 
-  **From:**
+  **From:** Tan, Sijun et al. 2025. »JudgeBench: A Benchmark for Evaluating LLM-Based Judges«, in Proceedings Of The Thirteenth International Conference on Learning Representations.
   
-  Tan, Sijun et al. 2025. »JudgeBench: A Benchmark for Evaluating LLM-Based Judges«, in Proceedings Of The Thirteenth International Conference on Learning Representations.
-  
-  **Accessed through:**
-  
-  https://huggingface.co/datasets/ScalerLab/JudgeBench
+  **Accessed through:** https://huggingface.co/datasets/ScalerLab/JudgeBench
 
   **GitHub:** https://github.com/ScalerLab/JudgeBench
 
@@ -38,13 +32,9 @@ English translation:
 
 ### SummEval
 
-  **From:**
+  **From:** Fabbri, Alexander R. et al. 2021. »SummEval: Re-evaluating Summarization Evaluation«, in Transactions of the Association for Computational Linguistics 9, S. 391–409.
   
-  Fabbri, Alexander R. et al. 2021. »SummEval: Re-evaluating Summarization Evaluation«, in Transactions of the Association for Computational Linguistics 9, S. 391–409.
-  
-  **Accessed through:**
-  
-  https://huggingface.co/datasets/mteb/summeval
+  **Accessed through:** https://huggingface.co/datasets/mteb/summeval
 
   **GitHub:** https://github.com/Yale-LILY/SummEval
 
