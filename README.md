@@ -8,6 +8,14 @@ English translation:
 
 **"Comparison of Interaction Strategies for Multi-Agent-based Evaluation Systems in the Context of LLMOps"**
 
+## Notes
+
+All model responses are stored in the `cache`, making all results fully reproducible.
+
+The required `.env` can be created with the `.env_template` file.
+
+`SOURCES.txt` contains the software source directory for the precise identification of the adopted code.
+
 ## Used Framework for Multi-Agent-Systems
 
 ### AutoGen
@@ -16,7 +24,7 @@ English translation:
 
   **GitHub:** https://github.com/microsoft/autogen
 
-  **License:** [MIT License](https://github.com/microsoft/autogen/blob/main/LICENSE)
+  **License:** [CC BY 4.0](https://github.com/microsoft/autogen/blob/main/LICENSE)
 
 ## Used Benchmarks for Evaluation
 

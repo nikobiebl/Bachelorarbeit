@@ -1,0 +1,5 @@
+Sources
+
+[1] Conversation Patterns, https://microsoft.github.io/autogen/0.2/docs/tutorial/conversation-patterns, 
+accessed on 10.03.2025, CC BY 4.0, https://github.com/microsoft/autogen/blob/main/LICENSE
+
